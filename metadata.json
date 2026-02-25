@@ -1,0 +1,5 @@
+{
+  "name": "Job Listing Extractor",
+  "description": "An intelligent tool that uses AI to extract key information from a job listing URL, helping you streamline your job application process.",
+  "requestFramePermissions": []
+}
